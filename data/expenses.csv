@@ -1,0 +1,121 @@
+Date,Category,Amount,Payment_Method,Description
+2026-02-21,Entertainment,1394,Card,Shoes
+2026-03-02,Entertainment,1738,UPI,Groceries
+2026-03-28,Shopping,1582,Cash,Bus Ticket
+2026-01-24,Shopping,1785,Cash,Movie
+2026-03-29,Bills,2953,UPI,Shoes
+2026-03-01,Entertainment,1284,UPI,Medicine
+2026-03-30,Food,574,Card,Internet Bill
+2026-02-11,Bills,2847,Card,Medicine
+2026-03-03,Health,662,Card,Bus Ticket
+2026-03-05,Food,746,Cash,Lunch
+2026-02-08,Travel,2535,Cash,Bus Ticket
+2026-01-14,Travel,2141,Cash,Movie
+2026-02-22,Travel,1463,Card,Bus Ticket
+2026-03-12,Bills,2656,Card,Groceries
+2026-03-19,Food,2055,UPI,Shoes
+2026-01-04,Travel,1121,UPI,Medicine
+2026-01-04,Health,1600,Card,Movie
+2026-03-31,Bills,261,UPI,Medicine
+2026-01-14,Health,1375,Cash,Medicine
+2026-02-09,Entertainment,2867,Cash,Movie
+2026-02-22,Travel,2364,Cash,Lunch
+2026-01-29,Entertainment,164,Cash,Internet Bill
+2026-01-09,Food,2127,Card,Groceries
+2026-03-22,Shopping,518,Cash,Groceries
+2026-01-05,Travel,2378,UPI,Lunch
+2026-01-28,Food,1963,UPI,Lunch
+2026-02-17,Health,1851,Cash,Groceries
+2026-02-13,Health,1670,Cash,Groceries
+2026-02-16,Health,2790,Cash,Cab Ride
+2026-03-31,Health,970,Card,Lunch
+2026-03-20,Travel,1584,Card,Internet Bill
+2026-02-21,Entertainment,195,UPI,Cab Ride
+2026-01-23,Entertainment,1778,Card,Cab Ride
+2026-02-05,Entertainment,1283,Card,Groceries
+2026-03-27,Bills,2725,UPI,Cab Ride
+2026-03-03,Food,2793,UPI,Medicine
+2026-03-16,Travel,2138,Cash,Internet Bill
+2026-03-03,Food,1508,Cash,Groceries
+2026-03-03,Food,2775,Cash,Lunch
+2026-01-03,Health,1579,Card,Lunch
+2026-03-03,Entertainment,1357,Card,Groceries
+2026-02-01,Food,1236,UPI,Lunch
+2026-02-27,Bills,1391,UPI,Internet Bill
+2026-01-02,Shopping,1736,Cash,Shoes
+2026-03-22,Shopping,2260,UPI,Movie
+2026-02-23,Entertainment,1859,Cash,Lunch
+2026-01-19,Health,1253,Cash,Bus Ticket
+2026-03-31,Health,1539,Card,Bus Ticket
+2026-02-24,Shopping,222,Cash,Internet Bill
+2026-02-07,Entertainment,297,UPI,Groceries
+2026-01-16,Food,1247,Card,Medicine
+2026-03-21,Entertainment,1894,Card,Bus Ticket
+2026-01-19,Travel,2086,Card,Groceries
+2026-01-20,Bills,588,Cash,Shoes
+2026-02-08,Travel,740,Card,Bus Ticket
+2026-02-26,Food,2069,Card,Internet Bill
+2026-02-11,Shopping,362,UPI,Shoes
+2026-03-01,Food,2149,Cash,Shoes
+2026-01-12,Entertainment,1283,Card,Internet Bill
+2026-01-09,Food,1782,Card,Bus Ticket
+2026-01-24,Health,1796,Card,Lunch
+2026-03-13,Bills,1545,UPI,Groceries
+2026-03-30,Shopping,2300,Cash,Movie
+2026-03-23,Travel,2969,Card,Shoes
+2026-03-02,Food,260,Cash,Medicine
+2026-01-21,Bills,1627,Card,Groceries
+2026-01-17,Food,2835,Card,Groceries
+2026-03-27,Health,2897,UPI,Medicine
+2026-02-20,Health,1899,Card,Groceries
+2026-01-21,Health,2431,Card,Shoes
+2026-03-10,Bills,915,Card,Bus Ticket
+2026-02-04,Food,116,UPI,Cab Ride
+2026-02-15,Entertainment,2665,Card,Bus Ticket
+2026-02-06,Entertainment,2644,UPI,Cab Ride
+2026-03-01,Food,1239,Card,Cab Ride
+2026-03-26,Food,227,UPI,Lunch
+2026-02-23,Travel,1446,UPI,Shoes
+2026-02-01,Health,1786,UPI,Internet Bill
+2026-01-27,Travel,1509,UPI,Lunch
+2026-02-02,Food,345,Card,Cab Ride
+2026-02-11,Travel,1990,UPI,Lunch
+2026-01-24,Entertainment,2975,UPI,Internet Bill
+2026-02-26,Bills,784,Cash,Shoes
+2026-01-16,Health,1071,Card,Internet Bill
+2026-01-15,Bills,933,Card,Internet Bill
+2026-03-27,Shopping,674,UPI,Cab Ride
+2026-01-22,Travel,2717,UPI,Lunch
+2026-02-21,Travel,937,Card,Medicine
+2026-03-01,Entertainment,2411,Cash,Bus Ticket
+2026-01-05,Bills,873,Cash,Shoes
+2026-02-16,Shopping,2970,Cash,Movie
+2026-01-30,Shopping,756,Card,Groceries
+2026-02-27,Travel,840,UPI,Cab Ride
+2026-03-03,Food,2031,Cash,Lunch
+2026-02-27,Travel,612,Card,Movie
+2026-02-17,Food,587,Cash,Cab Ride
+2026-01-01,Entertainment,803,Card,Cab Ride
+2026-01-22,Entertainment,2394,Card,Bus Ticket
+2026-01-26,Shopping,1096,UPI,Lunch
+2026-01-29,Health,1343,Cash,Internet Bill
+2026-03-03,Bills,552,UPI,Movie
+2026-02-17,Entertainment,650,Cash,Medicine
+2026-01-23,Travel,2669,UPI,Cab Ride
+2026-02-03,Bills,2909,Card,Movie
+2026-01-01,Entertainment,615,Card,Movie
+2026-02-01,Shopping,951,UPI,Groceries
+2026-02-02,Food,1056,Card,Groceries
+2026-01-12,Shopping,1540,UPI,Groceries
+2026-02-13,Entertainment,2544,Card,Medicine
+2026-01-02,Entertainment,2646,UPI,Groceries
+2026-03-28,Food,189,Cash,Movie
+2026-03-15,Travel,517,Card,Lunch
+2026-01-07,Bills,925,Cash,Movie
+2026-03-16,Entertainment,828,Cash,Cab Ride
+2026-02-05,Travel,1992,Cash,Shoes
+2026-03-05,Shopping,1222,UPI,Lunch
+2026-01-24,Health,136,Cash,Internet Bill
+2026-01-13,Food,972,UPI,Lunch
+2026-03-03,Bills,2003,Cash,Medicine
+2026-01-13,Shopping,2324,Cash,Lunch
